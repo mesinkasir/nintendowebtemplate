@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 18 Jan 2021 01:46:03 +0700</pubDate><title><![CDATA[About]]></title><url><![CDATA[about]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[About]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;section class=&quot;nes-container&quot;&gt;
+&lt;section class=&quot;message-list&quot;&gt;
+&lt;div class=&quot;nes-balloon from-left&quot;&gt;
+	&lt;p&gt;Hello Nintendo&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;section class=&quot;message -left&quot;&gt;&lt;i class=&quot;nes-mario&quot;&gt;&lt;/i&gt;&lt;/section&gt;
+
+&lt;section class=&quot;message -right&quot;&gt;
+&lt;div class=&quot;nes-balloon from-right&quot;&gt;
+	&lt;p&gt;I&#039;m a super mario bross and i&#039;m the bross boss !!.&lt;/p&gt;
+&lt;/div&gt;
+&lt;i class=&quot;nes-charmander text-right&quot;&gt;&lt;/i&gt;&lt;/section&gt;
+&lt;/section&gt;
+&lt;/section&gt;
+&lt;!-- Balloon &#039;is-dark&#039;  --&gt;
+
+&lt;section class=&quot;nes-container is-dark&quot;&gt;
+&lt;section class=&quot;message-list&quot;&gt;
+&lt;section class=&quot;message -left&quot;&gt;
+&lt;div class=&quot;nes-balloon from-left is-dark&quot;&gt;
+	&lt;p&gt;Do you know get axcora cms ??&lt;/p&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;i class=&quot;nes-logo float-start&quot;&gt;&lt;/i&gt;&lt;/section&gt;
+
+&lt;section class=&quot;message -right&quot;&gt;&lt;!-- Balloon --&gt;
+&lt;div class=&quot;text-end nes-balloon from-right is-dark&quot;&gt;
+	&lt;p&gt;Oh yeah.. a new cms generation with SEO no need database blast and fast.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;i class=&quot;float-end snes-jp-logo&quot;&gt;&lt;/i&gt;&lt;/section&gt;
+&lt;/section&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>

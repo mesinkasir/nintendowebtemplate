@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 18 Jan 2021 01:47:47 +0700</pubDate><title><![CDATA[Info]]></title><url><![CDATA[info]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[Info]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;div class=&quot;nes-container with-title is-centered&quot;&gt;
+  &lt;p class=&quot;title&quot;&gt;Container.is-centered&lt;/p&gt;
+  &lt;p&gt;Good morning. Thou hast had a good night&#039;s sleep, I hope.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;nes-container is-dark with-title&quot;&gt;
+  &lt;p class=&quot;title&quot;&gt;Container.is-dark&lt;/p&gt;
+  &lt;p&gt;Good morning. Thou hast had a good night&#039;s sleep, I hope.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;nes-container is-rounded&quot;&gt;
+  &lt;p&gt;Good morning. Thou hast had a good night&#039;s sleep, I hope.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;nes-container is-rounded is-dark&quot;&gt;
+  &lt;p&gt;Good morning. Thou hast had a good night&#039;s sleep, I hope.&lt;/p&gt;
+&lt;/div&gt;]]></content><private><![CDATA[]]></private><author><![CDATA[axcora]]></author></item>
