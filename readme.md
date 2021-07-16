@@ -6,21 +6,12 @@ No need a database for installation , make your website very fast and SEO friend
 
 Back to old school with retro mode - nintendo - super mario bross
 
-![new cms website free download template themes](https://a.fsdn.com/con/app/proj/freewebsite/screenshots/freewebsite%20new%281%29.jpg/max/max/1)
+![new cms website free download template themes](https://1.bp.blogspot.com/-xoWn1_19fyo/YPFfCtF0CkI/AAAAAAAAP4Q/a3I8IetbavEI5rQUN1rQzLgLGPqrsh1sgCLcBGAsYHQ/s1440/retro%2Bwebsite%2Btemplate%2Bfree%2Bdownload.jpg)
 
-Retro Look.....
-
-![new cms website free download template themes](https://a.fsdn.com/con/app/proj/freewebsite/screenshots/freewebsite%20%281%29.jpg/max/max/1)
-
-Like playing console game....
-
-![new cms website free download template themes](https://a.fsdn.com/con/app/proj/freewebsite/screenshots/freewebsite%20%284%29.png/max/max/1)
-
-Uniqueee......
-
-![new cms website free download template themes](https://a.fsdn.com/con/app/proj/freewebsite/screenshots/freewebsite%20%282%29.png/max/max/1)
-
-Fun...........
++ Retro Look.....
++ Like playing console game....
++ Uniqueee......
++ Fun...........
 
 
 With Home page menu, About Page , Profile Page, Info Page, Gallery Page , and contact
