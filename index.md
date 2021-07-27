@@ -6,42 +6,38 @@ No need a database for installation , make your website very fast and SEO friend
 
 Back to old school with retro mode - nintendo - super mario bross
 
-![new cms website free download template themes](https://a.fsdn.com/con/app/proj/freewebsite/screenshots/freewebsite%20new%281%29.jpg/max/max/1)
+![new cms website free download template themes](https://1.bp.blogspot.com/-xoWn1_19fyo/YPFfCtF0CkI/AAAAAAAAP4Q/a3I8IetbavEI5rQUN1rQzLgLGPqrsh1sgCLcBGAsYHQ/s1440/retro%2Bwebsite%2Btemplate%2Bfree%2Bdownload.jpg)
 
-Retro Look.....
-
-![new cms website free download template themes](https://a.fsdn.com/con/app/proj/freewebsite/screenshots/freewebsite%20%281%29.jpg/max/max/1)
-
-Like playing console game....
-
-![new cms website free download template themes](https://a.fsdn.com/con/app/proj/freewebsite/screenshots/freewebsite%20%284%29.png/max/max/1)
-
-Uniqueee......
-
-![new cms website free download template themes](https://a.fsdn.com/con/app/proj/freewebsite/screenshots/freewebsite%20%282%29.png/max/max/1)
-
-Fun...........
++ Retro Look.....
++ Like playing console game....
++ Uniqueee......
++ Fun...........
 
 
 With Home page menu, About Page , Profile Page, Info Page, Gallery Page , and contact
 
 You can customise with you needed....
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/freewebsite/screenshots/1.png/max/max/1)
+![new cms modern](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%285%29.png)
 
 Login Area for backend
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%284%29.png)
 
 Page and article post menu.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%283%29.png)
 
 Create article post very simple and easy
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%282%29.png)
+
+File manager system
+
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%281%29.png)
 
 Back end setting
+
 
  -----------------------------------------------------------------
 ### how to install
@@ -49,15 +45,15 @@ Back end setting
 CLOUDS / SHARED HOSTING
 
 Just download this file and upload on your shared or clouds host , upload on public_html fle if you using this cms for develope home page website, or you can upload it on sub directori .
-After upload progress success, now you need to configure website.xml file on \getaxcora\data\other\website.xml file. then change <SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL> with your site URL.
-Your website is online now . for accsess backend you need visit yourwebsite/admin
+After upload progress success. Your website is online now . for first need to configure site with accsess on backend - visit yourwebsite/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite, and save.
 
 LOCALHOST
 
-Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder, then visit localhost/your project. need to configure website.xml file on \getaxcora\data\other\website.xml file. then change <SITEURL><![CDATA[http://localhost/getaxcoracms/]]></SITEURL> with your site URL.
-Your website is online now on localhost. for accsess backend menu you need visit localhost/yourproject/admin
+Need third party XAMPP WAMPP LAMPP server, download this project and upload on your xampp/htdocs folder,  for first need to configure site with accsess on backend - visit localhost/projectweb/admin - login with user : axcora / pass : axcoracms - then visit on setting change URL with yoursite example localhost/projectweb/admin, and save.
 
 By default use username : axcora and password : axcoracms
+
+-----------------------------
 
 Features :
 
